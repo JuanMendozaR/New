@@ -1,4 +1,6 @@
 # Hello-World
 ## Yo soy Juande Mendoza
 
-### Hola este es mi primer repositorio en GitHub
+### este es mi primer repositorio en GitHub
+
+Megusta el ☕ y la 🎵 
